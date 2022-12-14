@@ -1,0 +1,26 @@
+id: IFD7E4A19
+default_language: bo
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-14 18:23:43.225979+00:00
+last_modified: 2022-12-14 18:23:43.225986+00:00
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-088-038
+  eft-text-version: 1.21.2 2020
+  title: Toh_543-The_Root_Manual_of_the_Rites_of_Manjusri-v2
+bases:
+  1B2E:
+    source_metadata: null
+    order: 1
+    base_file: 1B2E.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
